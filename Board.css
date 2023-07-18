@@ -1,0 +1,9 @@
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 6rem);
+    place-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
